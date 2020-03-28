@@ -7,6 +7,8 @@
 
 Light yet powerful reaction role bot coded in discord.py (rewrite branch).
 
+**This is the `csv` branch of Reaction Light, which is currently unsupported and no longer updated. Please consider switching to the SQLite implementation of the bot in `master`.**
+
 ## Features
 - Create multiple custom embedded messages with custom reactions and roles
 - Automatically assign/remove roles to users when they select/deselect a certain reaction
